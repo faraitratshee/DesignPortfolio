@@ -1,20 +1,14 @@
-# Farai Thabang Ratshee — Portfolio
+# Farai Thabang Ratshee — Portfolio 2026
 
-A single-page portfolio site for Farai Thabang Ratshee, a Senior Art Director. Presents work as a stack of overlapping "folders" by category — Branding & Identity, Campaign & Social, Web & Interface, Print & Environmental, and Illustration — each opening into a project grid and full case-study view.
+Single-page portfolio for Farai Thabang Ratshee, **Senior Art Director**. Presents selected client work as a grid of "folders" (Orange, Absa, BITC, Nando's, Hilton Garden Inn, BIFM, and more) — each opening into a full artwork gallery — plus services, an experience timeline, a full CV view, and a lockable rate card.
 
-Built as static, dependency-free HTML/CSS/JS — no build step required.
+## Single self-contained file
 
-## Structure
-
-- `index.html` — page markup (sidebar, hero, overlay containers)
-- `styles.css` — all styling, including responsive breakpoints for tablet and mobile
-- `script.js` — renders folders/menu/project grid/case studies from `content.json`, handles navigation state and the folder float/hover animation
-- `content.json` — all copy, categories, projects and image references
-- `assets/` — client work images, organized by project
+The entire site is one file: [`index.html`](index.html). Fonts, the React runtime, and every artwork image are embedded as `data:` URIs, so it has **no external dependencies** and works when opened directly (double-click / `file://`) or hosted anywhere — no build step, no bundle loader.
 
 ## Running locally
 
-Any static file server works, e.g.:
+Just open `index.html` in a browser. Or serve it:
 
 ```bash
 python3 -m http.server 8000
@@ -22,6 +16,6 @@ python3 -m http.server 8000
 
 Then open `http://localhost:8000`.
 
-## Editing content
+## Assets
 
-All copy, project data, and image paths live in `content.json`. Add or edit a project there and it will appear automatically in the relevant category folder — no HTML/JS changes needed.
+- `assets/` — original client work images, organized by project (source archive; the live site embeds optimized copies inline).
