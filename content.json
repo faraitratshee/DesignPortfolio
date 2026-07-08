@@ -1,0 +1,344 @@
+{
+  "categories": {
+    "branding": {
+      "label": "Branding & Identity",
+      "blurb": "Identity systems and rollouts — from a national bank launch applied at architectural scale to a shelf of considered logotypes.",
+      "projects": ["absa", "logos", "woolworths"]
+    },
+    "campaign": {
+      "label": "Campaign & Social",
+      "blurb": "The bulk of the work — always-on campaign and social systems built to a relentless calendar for some of the region's biggest brands.",
+      "projects": ["orange", "hilton", "bifm", "ausc", "premier", "nandos", "bokomo", "bomaid", "shell"]
+    },
+    "web": {
+      "label": "Web & Interface",
+      "blurb": "Digital front-ends and interface design — bold, high-contrast websites for print houses and brands.",
+      "projects": ["paperclip", "johnboatile", "turnstar"]
+    },
+    "print": {
+      "label": "Print & Environmental",
+      "blurb": "Work built for physical space and the street — large-format murals, banners, vehicle wraps and out-of-home.",
+      "projects": ["bitc", "lit"]
+    },
+    "illustration": {
+      "label": "Illustration",
+      "blurb": "A self-initiated line-art series exploring how much expression survives in a single, continuous stroke.",
+      "projects": ["reactions"]
+    }
+  },
+  "projects": {
+    "absa": {
+      "cat": "Branding & Identity",
+      "client": "Absa Bank Botswana",
+      "tagline": "Announcing a bank's arrival at the scale of a building.",
+      "role": "Art Director",
+      "year": "2020",
+      "deliverables": "Building wrap, branch signage, launch press",
+      "challenge": "Barclays' transition to Absa had to feel like a genuine arrival, not a rename.",
+      "approach": "The bold red identity was pushed to architectural scale — a full building wrap, branch posters and coordinated launch press.",
+      "results": "A high-visibility, unmistakably cohesive rollout that put Absa on the map across Botswana.",
+      "images": [
+        { "src": "assets/absa/1.png", "caption": "Head-office building wrap", "bg": "#EDEBE6" },
+        { "src": "assets/absa/2.webp", "caption": "Branch launch posters", "bg": "#EDEBE6" },
+        { "src": "assets/absa/3.webp", "caption": "Launch press advertising", "bg": "#EDEBE6" }
+      ]
+    },
+    "logos": {
+      "cat": "Branding & Identity",
+      "client": "Logotype Collection",
+      "tagline": "Marks with meaning, across a range of industries.",
+      "role": "Designer",
+      "year": "2019–2024",
+      "deliverables": "Logo design, brand marks",
+      "challenge": "A spread of businesses each needing a distinct, memorable identity.",
+      "approach": "Concept-led logotypes and symbols spanning hospitality, law, retail, beauty and lifestyle.",
+      "results": "A versatile library of marks that each own their category.",
+      "images": [
+        { "src": "assets/logos/1.webp", "caption": "Selected logotypes & marks", "bg": "#FFFFFF" }
+      ]
+    },
+    "woolworths": {
+      "cat": "Branding & Identity",
+      "client": "Woolworths",
+      "tagline": "Premium retail moments with a personal touch.",
+      "role": "Designer",
+      "year": "2021",
+      "deliverables": "Invitations, apparel design",
+      "challenge": "Elevate in-store events and merchandise to match a premium retailer.",
+      "approach": "Refined event invitations and custom apparel that stayed true to the Woolworths tone.",
+      "results": "On-brand collateral for key retail activations.",
+      "images": [
+        { "src": "assets/woolworths/1.jpg", "caption": "Event invitation", "bg": "#EDEBE6" },
+        { "src": "assets/woolworths/2.jpg", "caption": "Invitation — alternate", "bg": "#EDEBE6" },
+        { "src": "assets/woolworths/3.jpg", "caption": "T-shirt design mockup", "bg": "#EDEBE6" }
+      ]
+    },
+    "orange": {
+      "cat": "Campaign & Social",
+      "client": "Orange Botswana",
+      "tagline": "A national telco kept fresh, campaign after campaign.",
+      "role": "Senior Art Director",
+      "year": "2023–2024",
+      "deliverables": "5G campaign, social, print, calendar",
+      "challenge": "Keep a leading telecoms brand energetic across a constant stream of campaigns.",
+      "approach": "High-energy layouts, device-led hero art and a disciplined orange system carried from 5G launch to everyday social.",
+      "results": "A recognisable, flexible campaign toolkit that scales from billboards to feed.",
+      "images": [
+        { "src": "assets/orange/1.jpg", "caption": "5G Invasion — \"More hustle, less hassle\"", "bg": "#0a0f1a" },
+        { "src": "assets/orange/2.jpg", "caption": "5G Invasion — gaming", "bg": "#0a0f1a" },
+        { "src": "assets/orange/4.jpg", "caption": "For Good Connections Day — hero poster", "bg": "#EDEBE6" },
+        { "src": "assets/orange/7.jpg", "caption": "All My Friends — social", "bg": "#EDEBE6" },
+        { "src": "assets/orange/3.jpg", "caption": "5G Invasion — A5 tent card", "bg": "#EDEBE6" },
+        { "src": "assets/orange/5.jpg", "caption": "Connections Day — save the date", "bg": "#EDEBE6" },
+        { "src": "assets/orange/6.jpg", "caption": "Connections Day — mailer", "bg": "#EDEBE6" },
+        { "src": "assets/orange/8.jpg", "caption": "OIH desk calendar 2024", "bg": "#EDEBE6" }
+      ]
+    },
+    "hilton": {
+      "cat": "Campaign & Social",
+      "client": "Hilton Garden Inn Gaborone",
+      "tagline": "Always-on hospitality content, holiday to holiday.",
+      "role": "Senior Art Director",
+      "year": "2023–2024",
+      "deliverables": "Social calendar, print, menus",
+      "challenge": "A full calendar of events, runs and offers all needing consistent hotel-grade polish.",
+      "approach": "A warm, photographic content system spanning festive offers, fun runs, dining and cultural moments.",
+      "results": "A steady, on-brand social presence with dozens of coordinated executions.",
+      "images": [
+        { "src": "assets/hilton/1.jpg", "caption": "The Pink Run", "bg": "#EDEBE6" },
+        { "src": "assets/hilton/2.jpg", "caption": "Diwali", "bg": "#EDEBE6" },
+        { "src": "assets/hilton/3.jpg", "caption": "Mother's Day brunch", "bg": "#EDEBE6" },
+        { "src": "assets/hilton/4.jpg", "caption": "Valentine's Day", "bg": "#EDEBE6" },
+        { "src": "assets/hilton/5.jpg", "caption": "Sip & Paint", "bg": "#EDEBE6" },
+        { "src": "assets/hilton/6.jpg", "caption": "Fun Run", "bg": "#EDEBE6" },
+        { "src": "assets/hilton/7.jpg", "caption": "Independence", "bg": "#EDEBE6" },
+        { "src": "assets/hilton/8.jpg", "caption": "Birthday offer", "bg": "#EDEBE6" }
+      ]
+    },
+    "bifm": {
+      "cat": "Campaign & Social",
+      "client": "BIFM",
+      "tagline": "Making investment and finance feel human.",
+      "role": "Art Director",
+      "year": "2023–2024",
+      "deliverables": "Pathfinder campaign, Kids Money Camp, mailers, events",
+      "challenge": "Soften and warm up finance messaging without losing authority.",
+      "approach": "Friendly, approachable campaigns running from landing pages and static posts to flyers and event invites.",
+      "results": "A noticeably warmer brand tone across every touchpoint.",
+      "images": [
+        { "src": "assets/bifm/1.jpg", "caption": "Pathfinder campaign — social", "bg": "#EDEBE6" },
+        { "src": "assets/bifm/2.jpg", "caption": "Pathfinder — landing page", "bg": "#EDEBE6" },
+        { "src": "assets/bifm/3.jpg", "caption": "Kids Money Camp — A4 flyer", "bg": "#EDEBE6" },
+        { "src": "assets/bifm/4.jpg", "caption": "Kids Money Camp — social", "bg": "#EDEBE6" },
+        { "src": "assets/bifm/5.jpg", "caption": "Wine tasting invite", "bg": "#EDEBE6" },
+        { "src": "assets/bifm/6.jpg", "caption": "Feel Good mailer", "bg": "#EDEBE6" }
+      ]
+    },
+    "ausc": {
+      "cat": "Campaign & Social",
+      "client": "AUSC Region 5",
+      "tagline": "Sport that unites a region.",
+      "role": "Art Director",
+      "year": "2023",
+      "deliverables": "Youth Games, social strategy, save-the-dates",
+      "challenge": "Rally a regional sports body's audience around a run of events.",
+      "approach": "Energetic, athlete-forward posts, countdowns and a comprehensive social series.",
+      "results": "A cohesive campaign identity carried across every event.",
+      "images": [
+        { "src": "assets/ausc/1.jpg", "caption": "Youth Games — launch", "bg": "#EDEBE6" },
+        { "src": "assets/ausc/2.jpg", "caption": "Youth Games — series", "bg": "#EDEBE6" },
+        { "src": "assets/ausc/3.jpg", "caption": "Youth Games — series", "bg": "#EDEBE6" },
+        { "src": "assets/ausc/4.jpg", "caption": "Comprehensive strategy — excellence", "bg": "#EDEBE6" },
+        { "src": "assets/ausc/5.jpg", "caption": "Comprehensive strategy — diversity", "bg": "#EDEBE6" },
+        { "src": "assets/ausc/6.jpg", "caption": "Conference save the date", "bg": "#EDEBE6" }
+      ]
+    },
+    "premier": {
+      "cat": "Campaign & Social",
+      "client": "Premier Clothing",
+      "tagline": "Workwear that works, season to season.",
+      "role": "Designer",
+      "year": "2024",
+      "deliverables": "Back-to-School, workwear social, seasonal",
+      "challenge": "Drive retail apparel promotions across changing seasons.",
+      "approach": "A product-led, seasonal social system — from Back-to-School to Independence.",
+      "results": "Consistent, sales-driving retail campaigns.",
+      "images": [
+        { "src": "assets/premier/1.jpg", "caption": "Back to School", "bg": "#EDEBE6" },
+        { "src": "assets/premier/2.jpg", "caption": "Back to School — products", "bg": "#EDEBE6" },
+        { "src": "assets/premier/3.jpg", "caption": "Independence Day", "bg": "#EDEBE6" },
+        { "src": "assets/premier/4.jpg", "caption": "Workwear social", "bg": "#EDEBE6" },
+        { "src": "assets/premier/5.jpg", "caption": "Brand social post", "bg": "#EDEBE6" }
+      ]
+    },
+    "nandos": {
+      "cat": "Campaign & Social",
+      "client": "Nando's Botswana",
+      "tagline": "Flame-grilled team spirit.",
+      "role": "Designer",
+      "year": "2023",
+      "deliverables": "Relay team activation, social",
+      "challenge": "Bring a local activation to life in Nando's famously cheeky voice.",
+      "approach": "Playful, team-led posts built around a relay activation.",
+      "results": "On-brand local content that felt unmistakably Nando's.",
+      "images": [
+        { "src": "assets/nandos/1.jpg", "caption": "Relay team", "bg": "#EDEBE6" },
+        { "src": "assets/nandos/2.jpg", "caption": "Team Botswana", "bg": "#EDEBE6" },
+        { "src": "assets/nandos/3.png", "caption": "Social activation", "bg": "#EDEBE6" }
+      ]
+    },
+    "bokomo": {
+      "cat": "Campaign & Social",
+      "client": "Bokomo White Star",
+      "tagline": "A household staple, freshly told.",
+      "role": "Designer",
+      "year": "2023",
+      "deliverables": "Social, press",
+      "challenge": "Keep a staple FMCG brand top of mind on shelf and feed.",
+      "approach": "Appetising press and social artworks with strong, simple appetite appeal.",
+      "results": "A consistent, recognisable FMCG presence.",
+      "images": [
+        { "src": "assets/bokomo/1.jpg", "caption": "Social media artwork", "bg": "#EDEBE6" },
+        { "src": "assets/bokomo/2.jpg", "caption": "Press artwork", "bg": "#EDEBE6" },
+        { "src": "assets/bokomo/3.jpg", "caption": "Press artwork", "bg": "#EDEBE6" }
+      ]
+    },
+    "bomaid": {
+      "cat": "Campaign & Social",
+      "client": "Bomaid",
+      "tagline": "Health cover, clearly communicated.",
+      "role": "Designer",
+      "year": "2023",
+      "deliverables": "Pitch, social",
+      "challenge": "Present a medical-aid offering with clarity and warmth.",
+      "approach": "Clean, confident pitch and social layouts that put people first.",
+      "results": "Clear, trustworthy communication of a complex offering.",
+      "images": [
+        { "src": "assets/bomaid/1.jpg", "caption": "Facebook campaign", "bg": "#EDEBE6" },
+        { "src": "assets/bomaid/2.jpg", "caption": "Pitch — 20x7", "bg": "#EDEBE6" },
+        { "src": "assets/bomaid/3.jpg", "caption": "Pitch — 40x7", "bg": "#EDEBE6" }
+      ]
+    },
+    "shell": {
+      "cat": "Campaign & Social",
+      "client": "Shell",
+      "tagline": "Monthly content, fuelled up.",
+      "role": "Designer",
+      "year": "2022",
+      "deliverables": "Monthly social content",
+      "challenge": "Sustain a recurring monthly social feed for an energy brand.",
+      "approach": "A consistent branded monthly content system.",
+      "results": "A dependable content cadence, always on brand.",
+      "images": [
+        { "src": "assets/shell/1.jpg", "caption": "Monthly social content", "bg": "#EDEBE6" }
+      ]
+    },
+    "paperclip": {
+      "cat": "Web & Interface",
+      "client": "Paperclip BW",
+      "tagline": "\"Image is power.\" A print house, online.",
+      "role": "Web / UI Design",
+      "year": "2023",
+      "deliverables": "Website design, UI",
+      "challenge": "A printing & branding company needed a bold, unmissable online presence.",
+      "approach": "A high-contrast interface with a punchy yellow accent and a confident hero.",
+      "results": "A digital front-end matching the energy of the brand — paperclipbw.com.",
+      "images": [
+        { "src": "assets/websites/paperclip.webp", "caption": "Paperclip BW — website UI", "bg": "#F3F3F1" }
+      ]
+    },
+    "johnboatile": {
+      "cat": "Web & Interface",
+      "client": "John Boatile",
+      "tagline": "A personal brand, brought online.",
+      "role": "Web / UI Design",
+      "year": "2022",
+      "deliverables": "Website design, UI",
+      "challenge": "Give an individual a clean, credible online home.",
+      "approach": "A restrained, typographic interface focused on the work.",
+      "results": "A clear, professional personal site.",
+      "images": [
+        { "src": "assets/websites/john-boatile.webp", "caption": "John Boatile — website UI", "bg": "#F3F3F1" }
+      ]
+    },
+    "turnstar": {
+      "cat": "Web & Interface",
+      "client": "Turnstar",
+      "tagline": "An industrial brand with a digital front.",
+      "role": "Web / UI Design",
+      "year": "2022",
+      "deliverables": "Website design, UI",
+      "challenge": "Translate an industrial products brand into a modern web experience.",
+      "approach": "A structured, product-forward interface system.",
+      "results": "A polished digital storefront for the brand.",
+      "images": [
+        { "src": "assets/websites/turnstar.webp", "caption": "Turnstar — website UI", "bg": "#F3F3F1" }
+      ]
+    },
+    "bitc": {
+      "cat": "Print & Environmental",
+      "client": "BITC — Forbes Under 30 Summit",
+      "tagline": "Putting Botswana on the world stage.",
+      "role": "Art Director",
+      "year": "2024",
+      "deliverables": "Wall murals, directional banners, taxi branding, expo",
+      "challenge": "Brand a marquee international summit at full environmental scale.",
+      "approach": "Large-format wall murals, directional banners, vehicle wraps and expo branding working as one system.",
+      "results": "An immersive event environment that carried across the venue and the city.",
+      "images": [
+        { "src": "assets/bitc/1.jpg", "caption": "Dubai Expo presence", "bg": "#EDEBE6" },
+        { "src": "assets/bitc/2.jpg", "caption": "Forbes Under 30 — big wall mural", "bg": "#EDEBE6" },
+        { "src": "assets/bitc/3.jpg", "caption": "Glass wall mural", "bg": "#EDEBE6" },
+        { "src": "assets/bitc/4.jpg", "caption": "Taxi branding", "bg": "#EDEBE6" },
+        { "src": "assets/bitc/5.jpg", "caption": "Telescopic banner", "bg": "#EDEBE6" },
+        { "src": "assets/bitc/6.jpg", "caption": "Directional banners", "bg": "#EDEBE6" }
+      ]
+    },
+    "lit": {
+      "cat": "Print & Environmental",
+      "client": "LIT — The Metro Campaign",
+      "tagline": "Out-of-home that moves.",
+      "role": "Art Director",
+      "year": "2024",
+      "deliverables": "Metro campaign, large format",
+      "challenge": "Command attention in high-traffic out-of-home placements.",
+      "approach": "Bold, high-impact metro campaign layouts built to read at speed.",
+      "results": "A strong, hard-to-miss street presence.",
+      "images": [
+        { "src": "assets/lit/1.jpg", "caption": "The Metro Campaign — 10x7", "bg": "#EDEBE6" }
+      ]
+    },
+    "reactions": {
+      "cat": "Illustration",
+      "client": "Reactions by FTR",
+      "tagline": "How much expression survives a single stroke?",
+      "role": "Illustrator",
+      "year": "2023",
+      "deliverables": "Illustration, iconography",
+      "challenge": "A self-initiated exploration of expression through minimal, continuous line work.",
+      "approach": "A set of monoline faces and forms, each a distinct \"reaction\" in the same visual language.",
+      "results": "A cohesive personal illustrated series.",
+      "images": [
+        { "src": "assets/reactions/1.png", "caption": "Reaction 01", "bg": "#FFFFFF" },
+        { "src": "assets/reactions/2.png", "caption": "Reaction 02", "bg": "#FFFFFF" },
+        { "src": "assets/reactions/3.png", "caption": "Reaction 03", "bg": "#FFFFFF" },
+        { "src": "assets/reactions/4.png", "caption": "Reaction 04", "bg": "#FFFFFF" },
+        { "src": "assets/reactions/5.png", "caption": "Reaction 05", "bg": "#FFFFFF" },
+        { "src": "assets/reactions/6.png", "caption": "Reaction 06", "bg": "#FFFFFF" },
+        { "src": "assets/reactions/7.png", "caption": "Reaction 07", "bg": "#FFFFFF" },
+        { "src": "assets/reactions/8.png", "caption": "Reaction 08", "bg": "#FFFFFF" }
+      ]
+    }
+  },
+  "contact": {
+    "behance": "https://www.behance.net/farairatshee",
+    "linkedin": "https://www.linkedin.com/in/farairatshee/"
+  },
+  "identity": {
+    "name": "Farai Thabang Ratshee",
+    "monogram": "FTR",
+    "role": "Senior Art Director",
+    "tenure": "10+ years in the creative industry",
+    "location": "Based in Botswana · Open to work"
+  }
+}

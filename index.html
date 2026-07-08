@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Farai Thabang Ratshee — Senior Art Director Portfolio</title>
+<meta name="description" content="Farai Thabang Ratshee — Senior Art Director. Brands, campaigns and interfaces that move.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<button class="mobile-topbar-toggle" id="mobileMenuBtn" aria-label="Open menu">
+  <span></span><span></span><span></span>
+</button>
+
+<div class="app">
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-top">
+      <button class="hamburger" id="hamburgerBtn" aria-label="Open menu">
+        <span class="bar bar-1"></span>
+        <span class="bar bar-2"></span>
+        <span class="bar bar-3"></span>
+      </button>
+      <span class="portfolio-label">Portfolio</span>
+    </div>
+
+    <div class="sidebar-mid">
+      <div class="monogram" id="monogram">FTR</div>
+      <h1 class="sidebar-name" id="sidebarName">Farai Thabang<br>Ratshee</h1>
+      <p class="sidebar-role" id="sidebarRole">Senior Art Director</p>
+      <p class="sidebar-tenure" id="sidebarTenure">10+ years in the creative industry</p>
+    </div>
+
+    <div class="sidebar-bottom">
+      <div class="status-row">
+        <span class="status-dot"></span>
+        <span class="status-text" id="sidebarLocation">Based in Botswana · Open to work</span>
+      </div>
+      <div class="sidebar-links">
+        <a id="behanceLink" href="#" target="_blank" rel="noopener">Behance</a>
+        <a id="linkedinLink" href="#" target="_blank" rel="noopener">LinkedIn</a>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Stage -->
+  <main class="stage" id="stage">
+    <p class="eyebrow">Selected Work · 2019—2025</p>
+    <h2 class="hero-h1">Brands, campaigns &amp; interfaces that move.</h2>
+    <p class="hero-intro">I'm a senior art director with over a decade shaping identities and campaigns for banks, telcos, hospitality and retail across Southern Africa. Every project is filed below — open a folder to look inside.</p>
+
+    <div class="folder-stack" id="folderStack"><!-- folders injected by JS --></div>
+
+    <section class="section-block" id="aboutSection">
+      <p class="eyebrow">About</p>
+      <p class="about-statement">A decade of art direction — translating brand strategy into work that lives everywhere, from a building wrap to a phone screen.</p>
+      <p class="about-body">I lead concepts end to end: identity, campaign, print, environmental and digital. I've partnered with agencies and brands across banking, telecoms, hospitality, FMCG and retail — shipping cohesive systems under real deadlines while keeping the craft high.</p>
+    </section>
+
+    <section class="section-block" id="contactSection">
+      <p class="eyebrow">Contact</p>
+      <h3 class="contact-headline">Let's make something.</h3>
+      <div class="contact-buttons">
+        <a class="pill-btn" id="contactBehance" href="#" target="_blank" rel="noopener">Behance ↗</a>
+        <a class="pill-btn" id="contactLinkedin" href="#" target="_blank" rel="noopener">LinkedIn ↗</a>
+      </div>
+    </section>
+  </main>
+
+  <!-- Category / Case-study overlay -->
+  <div class="overlay category-overlay" id="categoryOverlay" hidden>
+    <div class="overlay-topbar">
+      <button class="back-btn" id="overlayBackBtn">← Home</button>
+      <button class="close-btn" id="overlayCloseBtn" aria-label="Close">✕</button>
+    </div>
+    <div class="overlay-content" id="overlayContent"><!-- grid or case study injected by JS --></div>
+  </div>
+
+  <!-- Full-screen menu -->
+  <div class="overlay menu-overlay" id="menuOverlay" hidden>
+    <button class="close-btn close-btn-light" id="menuCloseBtn" aria-label="Close menu">✕</button>
+    <nav class="menu-list" id="menuList"><!-- items injected by JS --></nav>
+    <div class="menu-footer">
+      <a id="menuBehance" href="#" target="_blank" rel="noopener">Behance ↗</a>
+      <a id="menuLinkedin" href="#" target="_blank" rel="noopener">LinkedIn ↗</a>
+    </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
